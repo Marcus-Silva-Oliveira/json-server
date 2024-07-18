@@ -1,0 +1,31 @@
+{
+  "task": [
+    {
+      "id": 1,
+      "title": "Criação de tarefas",
+      "assign": "Marcus",
+      "startDate": "2023-07-18T00:00:00Z",
+      "EndDate": "",
+      "TaskType": 1,
+      "Description": "Uma tarefa de teste criada para validar um JSON"
+    },
+    {
+      "id": 2,
+      "title": "Lavar a louça",
+      "assign": "Lucas",
+      "startDate": "2023-06-21T00:00:00Z",
+      "EndDate": "",
+      "TaskType": 2,
+      "Description": "Vai lavar a louça da tua casa maxo"
+    },
+    {
+      "id": 3,
+      "title": "Finalizar as tarefas",
+      "assign": "Lucas",
+      "startDate": "2023-07-14T00:00:00Z",
+      "EndDate": "",
+      "TaskType": 1,
+      "Description": "Apos criadas, devem ser finalizadas"
+    }
+  ]
+}
